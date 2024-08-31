@@ -1,5 +1,5 @@
 {
-    "name": "platzivideo",
+    "name": "rafaivideo",
     "version": 2,
     "builds": [{
         "src": "index.js",
@@ -10,9 +10,9 @@
         "dest": "/index.js"
     }],
     "env": {
-        "DB_USER": "@platzivideos-db-user",
-        "DB_PASSWORD": "@platzivideos-db-password",
-        "DB_HOST": "@platzivideos-db-host",
-        "DB_NAME": "@platzivideos-db-name"
+        "DB_USER": "@rafavideos-db-user",
+        "DB_PASSWORD": "@rafavideos-db-password",
+        "DB_HOST": "@rafavideos-db-host",
+        "DB_NAME": "@rafavideos-db-name"
     }
 }
